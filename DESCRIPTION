@@ -1,0 +1,10 @@
+Package: dcTemplate
+Type: Package
+Title: DC Template
+Version: 0.2.0.9999
+Date: 2014-03-14
+Authors@R: person("Karthik", "Ram", , "karthik.ram@gmail.com", c("aut", "cre"))
+Description: A template for Data Carpentry lessons.
+License: GPL-3
+Imports:
+    rmarkdown

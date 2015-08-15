@@ -1,0 +1,5 @@
+name: Data Carpentry Lesson Template
+description: >
+ Template for creating R lessons for Data Carpentry.
+create_dir: true
+
