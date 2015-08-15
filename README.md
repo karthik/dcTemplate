@@ -12,4 +12,6 @@ devtools::install_github("karthik/dcTemplate")
 
 Then load up RStudio, New File > rmarkdown > templates.
 
+![](dialog.png)
+
 Then choose DC template.
